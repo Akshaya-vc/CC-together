@@ -13,5 +13,5 @@ int Solution::solve(vector<int> &v)
     }
     return ans;
 }
-// time complexity: O(n) for n elements in vector
+// time complexity: O(n^2) for n elements in vector
 // space complexity: O(1) for ans
